@@ -1,2 +1,8 @@
 # docker_deployer
-Deploys an app to docker using Ruby
+
+A simple Ruby script that builds and deploys Docker containers using a YAML config.
+
+## Usage
+
+```bash
+ruby deploy.rb

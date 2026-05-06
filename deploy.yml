@@ -1,1 +1,9 @@
-
+app:
+  name: my_app
+  dockerfile: Dockerfile
+  image: my_app_image
+  container_name: my_app_container
+  ports:
+    - "3000:3000"
+  env:
+    RAILS_ENV: development
