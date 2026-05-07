@@ -1,4 +1,4 @@
-# docker-deployer
+# Docker Deployer
 
 A simple Ruby script that builds and deploys Docker containers using a YAML config.
 
